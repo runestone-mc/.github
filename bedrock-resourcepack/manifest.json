@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Agaloth"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "Runestone Resource Pack",
+		"description": "Official Bedrock Resource Pack support for Runestone",
+		"min_engine_version": [
+			1,
+			19,
+			80
+		],
+		"uuid": "83d7553d-83e6-4a8a-a008-bf3912b8c8c2",
+		"version": [
+			1,
+			0,
+			17
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "9f64cfff-ddfb-4869-a586-97521c0f56a4",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
