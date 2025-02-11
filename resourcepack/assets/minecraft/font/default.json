@@ -1,0 +1,6 @@
+{
+    "providers": [
+        {"type": "bitmap", "file": "minecraft:default/pixel.png","ascent": -2000,"height": -3,"chars": ["₴"]},
+        {"type": "bitmap", "file": "minecraft:menu/template.png","ascent": 20,"height": 140,"chars": ["☀"]}
+    ]
+}
